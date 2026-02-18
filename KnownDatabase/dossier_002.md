@@ -1,8 +1,8 @@
 # SCP-001-A, "The Sigil"
-## Containment Class:
+### Containment Class:
 Apollyon
 
-## Containment Method(s):
+### Containment Method(s):
 None.
 
 ## Description -
