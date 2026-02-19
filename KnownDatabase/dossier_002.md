@@ -1,9 +1,10 @@
-# SCP-001-A, "The Sigil"
-### Containment Class:
-Apollyon
+# Overview
+Item #: SCP-001-A
 
-### Containment Method(s):
-None.
+Object Class: Ticonderoga
+
+### Special Containment Procedures
+None, due to its existence as a celestial object.
 
 ## Description -
 After the activation of **SCP-001**, **SCP-001-A** was observed to appear in the sky, replacing the moon.
