@@ -1,0 +1,4 @@
+> archivits_notes.txt
+
+If I have any inconsistencies, messups, miscategorizations, typos, or writing mistakes, please file an Issue in the repository!
+This is my first work in the SCP Foundation space, so if I have any terminology missing or incorrect, please let me know!!!

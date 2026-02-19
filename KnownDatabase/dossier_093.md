@@ -38,12 +38,12 @@ Loading `contents.txt`
 The contents of this repository are for high-figures only. Proceed at your own risk.
 
 ## _Mobile Task Force unit Zulu-Niner,
-Better known as “Gray Harpies”, MTF: Zulu-Niner is one of many task forces lying in wait for catastrophic events. Zulu-Niner is to be mobilized in the event of SCP-001’s activation.
+Better known as “Gray Harpies”, MTF: Zulu-Niner is one of many task forces lying in wait for catastrophic events. MTF: Zulu-Niner is to be mobilized in the event of SCP-001’s activation.
 
-Zulu-Niner is composed of genetically advanced superhumans, who have been designed to not require sustenance of any form.
+MTF: Zulu-Niner is composed of genetically advanced superhumans, who have been designed to not require sustenance of any form.
 
-Zulu-Niner’s primary objective is to exterminate every civilian deemed expendable, calculated to be 97% of the human race. All personnel or allied groups of interest are to be exempt from this objective.
+MTF: Zulu-Niner’s primary objective is to exterminate every civilian deemed expendable, calculated to be 97% of the human race. All personnel or allied groups of interest are to be exempt from this objective.
 
-Zulu-Niner has been equipped with all of the tools needed to execute their prime objective.
+MTF: Zulu-Niner has been equipped with all of the tools needed to execute their prime objective.
 
-Until needed, Zulu-Niner lies dormant in Site-REDACTED in cryogenic stasis.
+Until needed, MTF: Zulu-Niner lies dormant in Site-REDACTED in cryogenic stasis.

@@ -6,7 +6,7 @@ Object Class: Ticonderoga
 ### Special Containment Procedures
 None, due to its existence as a celestial object.
 
-## Description -
+### Description -
 After the activation of **SCP-001**, **SCP-001-A** was observed to appear in the sky, replacing the moon.
 
 It is unknown at this time if exposure to **SCP-001-A** causes any effects, and contact with the object has not been attempted.

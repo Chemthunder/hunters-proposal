@@ -3,14 +3,14 @@ Item #: SCP-001
 
 Object Class: Apollyon
 
-## Special Containment Procedures
+### Special Containment Procedures
 Currently, as this file is being written, there is no feasible containment measure. Foundation members are advised to forcefully eliminate any and all non-essential civilians.
 
 Following this event, MTF: Zulu-Niner (better known now as the “Gray Harpies,”) have been mobilized and instructed to perform the extermination of 88% of the human population. This goal is simple, and acted on to ensure that all essential personnel and civilians will be able to survive for as long as possible following SCP-001’s activation. 
 
 The rest of the Foundation has been either discharged, or given their last directive from the 05-Council: Create a renewable food source.
 
-## Description
+### Description
 Following 24/12/23, the world was plunged into a blinding white light. Approximately thirty to fourty-five seconds later, the world regained visibility. During this expanse (known commonly by the moniker of “The Flash”), every piece of contact with satellites, network grids, and electricity was severed at once.
 
 The Foundation also observes that almost ninety-nine percent of Earth’s forms of food production were wiped out, as if they had never existed originally, along with all forms of producing food ceasing to exist as well.
