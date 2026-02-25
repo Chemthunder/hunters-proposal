@@ -18,7 +18,7 @@ A faceless man eventually slams a blanket across the child’s mouth, and looks 
 
 After what feels like hours, a cutting sound is heard from the ceiling.
 
-Several civilians go wild with fear, shrieking hysterically, begging / praying to [God]. More cutting sounds break through the air, as the roof crumbles in a circular pattern.
+Several civilians go wild with fear, shrieking hysterically, begging / praying to [God](https://github.com/Chemthunder/hunters-proposal/blob/main/CivilianBroadcasts/_textentries/broadcastnull). More cutting sounds break through the air, as the roof crumbles in a circular pattern.
 
 Several vaguely humanoid shapes descend from the freshly opened hole, zooming straight towards the civilians. Red flashes from the “heads” of the creatures lit up the camera.
 
